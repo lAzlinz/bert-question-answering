@@ -1,0 +1,1328 @@
+index,response,tag
+0,Hey :-),0
+1,"Hello, thanks for visiting",0
+2,"Hi there, what can I do for you?",0
+3,"Hi there, how can I help?",0
+4,"See you later, thanks for visiting",1
+5,Have a nice day,1
+6,Bye! Come back again soon.,1
+7,Happy to help!,2
+8,Any time!,2
+9,My pleasure,2
+10,This is a chatbot called Admission ChatBUt: Your Admission Guide.,3
+11,Hey there! This is a web application that aids students in there admission for Bicol University.,3
+12,Why did the hipster burn his mouth? He drank the coffee before it was cool.,4
+13,What did the buffalo say when his son left for college? Bison.,4
+14,Begin your application journey by browsing: https://buao.bicol-u.edu.ph,5
+15,Gain access to the application portal by clicking: https://buao.bicol-u.edu.ph,5
+16,Take the first step in your application by navigating to: https://buao.bicol-u.edu.ph,5
+17,Apply easily by clicking: https://buao.bicol-u.edu.ph,5
+18,Access the application link via direct browsing: https://buao.bicol-u.edu.ph,5
+19,Apply now by going to: https://buao.bicol-u.edu.ph,5
+20,Initiate your application process by clicking: https://buao.bicol-u.edu.ph,5
+21,Access the application form by visiting: https://buao.bicol-u.edu.ph,5
+22,Begin your application journey by accessing: https://buao.bicol-u.edu.ph,5
+23,Start your application journey by visiting: https://buao.bicol-u.edu.ph,5
+24,Apply conveniently by browsing: https://buao.bicol-u.edu.ph,5
+25,Take the initiative to apply by clicking: https://buao.bicol-u.edu.ph,5
+26,Begin your application process by navigating to: https://buao.bicol-u.edu.ph,5
+27,Access the application portal by opening: https://buao.bicol-u.edu.ph,5
+28,Start your application journey by clicking: https://buao.bicol-u.edu.ph,5
+29,Begin your application process by visiting: https://buao.bicol-u.edu.ph,5
+30,Apply now by browsing: https://buao.bicol-u.edu.ph,5
+31,Gain access to the application portal by navigating to: https://buao.bicol-u.edu.ph,5
+32,Initiate your application by clicking: https://buao.bicol-u.edu.ph,5
+33,Access the application form easily via direct visit: https://buao.bicol-u.edu.ph,5
+34,Apply now by accessing: https://buao.bicol-u.edu.ph,5
+35,"To change your appointment date, simply click on the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+36,Rescheduling made simple: access the link here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+37,"If you need to reschedule your appointment date, visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+38,You can change your appointment date by navigating to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+39,Want to change the date? Click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+40,Adjust your appointment date by following this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+41,Need to reschedule your appointment? Visit the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+42,Reschedule your appointment date by accessing this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+43,Change your appointment date easily: visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+44,"For appointment date changes, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+45,"To change your appointment date, visit this webpage: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+46,Reschedule your appointment by visiting this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+47,Adjust your appointment date easily: click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+48,Want to change your appointment date? Go here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+49,Need to reschedule? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+50,Reschedule your appointment date by accessing this webpage: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+51,Change your appointment date easily: visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+52,"For appointment date changes, visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+53,"To change your appointment date, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+54,Reschedule your appointment by following this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+55,Adjust your appointment date easily: visit the provided link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+56,Want to change the date? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+57,Need to reschedule your appointment? Go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+58,Reschedule your appointment date by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+59,Change your appointment date easily: access this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+60,"For appointment date changes, visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+61,"To change your appointment date, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+62,Reschedule your appointment by following this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+63,Adjust your appointment date easily: visit the provided link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+64,Want to change the date? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+65,Need to reschedule your appointment? Go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+66,Reschedule your appointment date by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+67,Change your appointment date easily: access this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+68,"For appointment date changes, visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+69,"To change your appointment date, click the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+70,Reschedule your appointment by visiting this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+71,Adjust your appointment date easily: click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+72,Want to change your appointment date? Go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+73,Need to reschedule? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+74,Reschedule your appointment date by navigating to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+75,Change your appointment date easily: visit this webpage: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+76,"For appointment date changes, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+77,Use the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+78,Access and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+79,Obtain your application form by clicking on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+80,Visit the link to find and retrieve your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+81,Retrieve your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+82,Click the link provided to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+83,Discover your application form by clicking on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+84,Find and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+85,Locate your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+86,Visit the link to discover your application form for download: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+87,Retrieve your application form by clicking on the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+88,Visit the provided link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+89,Access and download your application form via link visitation: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+90,Obtain your application form by clicking this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+91,Visit the link to find and retrieve your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+92,Retrieve your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+93,Click the link provided to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+94,Discover your application form by clicking on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+95,Find and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+96,Locate your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+97,Visit the link to discover your application form for download: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+98,Retrieve your application form by clicking on the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+99,Visit the provided link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+100,"To update your picture, simply click on the link provided: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+101,Picture adjustments made simple: access the link here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+102,"If you need to update your picture, visit: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+103,You can change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+104,Want to change or re-upload? Click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+105,Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+106,Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+107,Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+108,Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+109,Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+110,Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+111,Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+112,Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+113,Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+114,Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+115,Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+116,Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+117,Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+118,Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+119,Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+120,Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+121,Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+122,A week before the examination day per test center,9
+123,Pass it on a week before the examination day per test center,9
+124,A week before the examination day per test center is the deadline for submitting the requirements.,9
+125,It's due is on a week before the examination day per test center,9
+126,The deadline is a week before the examination day per test center,9
+127,The PHP 250.00 registration fee is not applicable to Filipino freshmen applicants under R.A. NO. 10931.,10
+128,Filipino freshmen applicants are granted a waiver for the PHP 250.00 registration fee as per R.A. NO. 10931.,10
+129,"The PHP 250.00 registration fee is waived for Filipino freshmen applicants, as mandated by R.A. NO. 10931.",10
+130,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are excused from paying the PHP 250.00 registration fee.",10
+131,"Under the guidelines of R.A. NO. 10931, Filipino freshmen applicants do not have to pay the PHP 250.00 registration fee.",10
+132,The PHP 250.00 registration fee is waived for Filipino freshmen applicants in accordance with R.A. NO. 10931.,10
+133,Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee as stipulated by R.A. NO. 10931.,10
+134,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are relieved from the PHP 250.00 registration fee.",10
+135,"Under R.A. NO. 10931, Filipino freshmen applicants are entitled to exemption from the PHP 250.00 registration fee.",10
+136,The PHP 250.00 registration fee is not required for Filipino freshmen applicants under R.A. NO. 10931.,10
+137,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are granted a waiver for the PHP 250.00 registration fee.",10
+138,Filipino freshmen applicants are exempt from the PHP 250.00 registration fee under the provisions of R.A. NO. 10931.,10
+139,"In accordance with R.A. NO. 10931, Filipino freshmen applicants are not charged the PHP 250.00 registration fee.",10
+140,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are excused from the PHP 250.00 registration fee.",10
+141,"The PHP 250.00 registration fee is waived for Filipino freshmen applicants, as per R.A. NO. 10931.",10
+142,Filipino freshmen applicants are relieved from paying the PHP 250.00 registration fee under the guidelines of R.A. NO. 10931.,10
+143,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are eligible for exemption from the PHP 250.00 registration fee.",10
+144,"Under R.A. NO. 10931, Filipino freshmen applicants do not need to pay the PHP 250.00 registration fee.",10
+145,The PHP 250.00 registration fee is waived for Filipino freshmen applicants as mandated by R.A. NO. 10931.,10
+146,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are granted a waiver of the PHP 250.00 registration fee.",10
+147,Filipino freshmen applicants are exempted from the PHP 250.00 registration fee under R.A. NO. 10931.,10
+148,"In compliance with R.A. NO. 10931, the PHP 250.00 registration fee is waived for Filipino freshmen applicants.",10
+149,You have the option of having any representative submit your complete BUCET requirements.,11
+150,Submission of your complete BUCET requirements is allowed by any representative with proper authorization.,11
+151,Any representative who is duly is permitted to submit your entire BUCET requirements.,11
+152,You can authorize any representative to submit your complete BUCET requirements.,11
+153,Submission of your complete BUCET requirements is open to any authorized representative.,11
+154,"Do not re-apply 
+If any changes are needed, please print out your application form and make adjustments with correction tape, using a blue ballpen.",12
+155,"Do not re-apply 
+In the event of any alterations, it's recommended to print your application form and make corrections using correction tape, ensuring to use a blue ballpen.",12
+156,"Do not re-apply 
+If you would like to make any changes, please print out your application form and edit it with correction tape, using a blue ballpen.",12
+157,"Do not re-apply 
+Should you wish to modify any information, it is advised to print your application form and adjust it with correction tape, making sure to use a blue ballpen.",12
+158,"Do not re-apply 
+In case of any required modifications, it's recommended to print your application form and make changes with correction tape, employing a blue ballpen.",12
+159,"Do not re-apply 
+If you need to make any changes, please print out your application form and amend it with correction tape, using a blue ballpen.",12
+160,"Do not re-apply 
+If you would like to make changes, print out your application form and edit it with a correction tape and use a blue ballpen",12
+161,"Do not re-apply 
+Should any adjustments be necessary, kindly print your application form and make edits with correction tape, ensuring to use a blue ballpen.",12
+162,"Do not re-apply 
+If any alterations are required, it is advised to print your application form and apply corrections with correction tape, making use of a blue ballpen.",12
+163,"Do not re-apply 
+In the event of any changes, it's recommended to print your application form and modify it with correction tape, ensuring to use a blue ballpen.",12
+164,"Do not re-apply 
+Should you wish to make any modifications, kindly print your application form and edit it with correction tape, making sure to use a blue ballpen.",12
+165,"Do not re-apply 
+If adjustments are required, please print out your application form and make corrections with correction tape, using a blue ballpen.",12
+166,"Do not re-apply 
+In case of any required adjustments, it is advisable to print your application form and adjust it with correction tape, employing a blue ballpen.",12
+167,"Do not re-apply 
+If you need to modify any details, please print out your application form and make changes with correction tape, using a blue ballpen.",12
+168,"Do not re-apply 
+Should any alterations be needed, kindly print your application form and apply corrections using correction tape, ensuring to use a blue ballpen.",12
+169,"Do not re-apply 
+In the event that changes are required, it's recommended to print your application form and amend it with correction tape, making use of a blue ballpen.",12
+170,"Do not re-apply 
+If any adjustments are necessary, please print out your application form and make edits with correction tape, using a blue ballpen.",12
+171,"Do not re-apply 
+Should you wish to edit any information, it is advised to print your application form and modify it with correction tape, ensuring to use a blue ballpen.",12
+172,"Do not re-apply 
+In case any changes need to be made, kindly print your application form and adjust it with correction tape, employing a blue ballpen.",12
+173,"Do not re-apply 
+If any modifications are necessary, please print out your application form and make corrections with correction tape, using a blue ballpen.",12
+174,"Do not re-apply 
+Should you need to make any adjustments, it's recommended to print your application form and edit it with correction tape, making sure to use a blue ballpen.",12
+175,"Do not re-apply 
+In the event that adjustments are required, it is advisable to print your application form and make changes using correction tape, ensuring to use a blue ballpen.",12
+176,"Do not re-apply 
+If you need to modify any details, kindly print out your application form and adjust it with correction tape, making use of a blue ballpen.",12
+177,"Do not re-apply 
+Should any alterations be necessary, please print your application form and apply corrections using correction tape, ensuring to use a blue ballpen.",12
+178,"Do not re-apply 
+In case of any changes, it's recommended to print your application form and amend it with correction tape, using a blue ballpen.",12
+179,"Do not re-apply 
+If any adjustments are needed, please print out your application form and make edits with correction tape, making use of a blue ballpen.",12
+180,"Do not re-apply 
+Should you wish to modify any information, kindly print your application form and edit it with correction tape, ensuring to use a blue ballpen.",12
+181,"Do not re-apply 
+In case any alterations need to be made, it is advised to print your application form and adjust it with correction tape, employing a blue ballpen.",12
+182,"Do not re-apply 
+If any modifications are required, please print out your application form and make corrections with correction tape, using a blue ballpen.",12
+183,"Do not re-apply 
+Should you need to make any changes, it's recommended to print your application form and amend it with correction tape, making sure to use a blue ballpen.",12
+184,"To correct, follow the procedure below.
+ 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.
+ 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.
+ 3. Add your initials or signature next to the updated information.
+ Note: Do not use pdf editor",13
+185,"To fix the application form, follow the procedure below.
+ 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.
+ 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.
+ 3. Add your initials or signature next to the updated information.
+ Note: Do not use pdf editor",13
+186,"For the correction, follow the procedure below.
+ 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.
+ 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.
+ 3. Add your initials or signature next to the updated information.
+ Note: Do not use pdf editor",13
+187,"You can choose any on the options below
+ Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.
+ Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.
+ Option 3: Mail your BUCET application documents through any courier service available in your locality",14
+188,"Choose what's more convenient to you
+ Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.
+ Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.
+ Option 3: Mail your BUCET application documents through any courier service available in your locality",14
+189,"Here's the option you can make
+ Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.
+ Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.
+ Option 3: Mail your BUCET application documents through any courier service available in your locality",14
+190,"Here's the list you can do
+ Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.
+ Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.
+ Option 3: Mail your BUCET application documents through any courier service available in your locality",14
+191,"To submit, you can choose what's the best for you
+ Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.
+ Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.
+ Option 3: Mail your BUCET application documents through any courier service available in your locality",14
+192,"You can choose any on the options below
+ Option 1:   Claim your test permit from your High School Counselor or authorized school representative.
+ Option 2: BU Admissions office (Onsite during appointment date)
+ Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",15
+193,"Choose what's more convenient to you
+ Option 1:   Claim your test permit from your High School Counselor or authorized school representative.
+ Option 2: BU Admissions office (Onsite during appointment date)
+ Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",15
+194,"Here's the ways you can do
+ Option 1:   Claim your test permit from your High School Counselor or authorized school representative.
+ Option 2: BU Admissions office (Onsite during appointment date)
+ Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",15
+195,"Here's the list you can choose
+ Option 1:   Claim your test permit from your High School Counselor or authorized school representative.
+ Option 2: BU Admissions office (Onsite during appointment date)
+ Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",15
+196,"To claim, you have three optionsyou can choose what's the best for you
+ Option 1:   Claim your test permit from your High School Counselor or authorized school representative.
+ Option 2: BU Admissions office (Onsite during appointment date)
+ Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",15
+197,"No need, But make sure to verify that your application requirements have been submitted to the admissions office before the scheduled deadline for the test center.",16
+198,"No need, But ensure that your application requirements have been received and processed by the admissions office before the scheduled deadline for the test center.",16
+199,"No need, But confirm with certainty that your application requirements have reached the admissions office before the scheduled deadline for the test center.",16
+200,"No need, But ensure that your application requirements have been successfully delivered to the admissions office before the scheduled deadline for the test center.",16
+201,"No need, But double-check and ensure that your application requirements have reached the admissions office before the scheduled deadline for the test center.",16
+202,"No need, But it is crucial to ensure that your application requirements have been received and acknowledged by the admissions office before the scheduled deadline for the test center.",16
+203,"No need, But verify that your application requirements have been acknowledged and recorded by the admissions office before the scheduled deadline for the test center.",16
+204,"No need, But check to ensure that your application requirements have been duly received and processed by the admissions office before the scheduled deadline for the test center.",16
+205,"No need, But it is essential to verify that your application requirements have been duly acknowledged and processed by the admissions office before the scheduled deadline for the test center.",16
+206,"No need, But confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",16
+207,"No need, But ensure with certainty that your application requirements have been duly received and documented by the admissions office before the scheduled deadline for the test center.",16
+208,"No need, But make sure to confirm that your application requirements have been properly received and accounted for by the admissions office before the scheduled deadline for the test center.",16
+209,"No need, But double-check to ensure that your application requirements have been properly received and accounted for by the admissions office before the scheduled deadline for the test center.",16
+210,"No need, But it is crucial to double-check and confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",16
+211,"No need, But ensure that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",16
+212,"No need, But verify with certainty that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",16
+213,"No need, But make sure to double-check and confirm that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",16
+214,"No need, But it is essential to verify with certainty that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",16
+215,"No need, But confirm that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",16
+216,"No need, But ensure with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",16
+217,"No need, But make sure to verify that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",16
+218,"No need, But double-check and confirm that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",16
+219,"No need, But it is crucial to ensure that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",16
+220,"No need, But verify that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",16
+221,"No need, But ensure with certainty that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",16
+222,"No need, But make sure to double-check and confirm that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",16
+223,"No need, But it is essential to verify with certainty that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",16
+224,"No need, But confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",16
+225,"No need, But ensure with certainty that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",17
+226,"No need, But double-check that your application requirements reach the admissions office before the test center's deadline.",17
+227,"No need, But confirm that your application materials have been delivered to the admissions office prior to the test center's deadline.",17
+228,"No need, But guarantee your application requirements are in the possession of the admissions office before the test center's deadline.",17
+229,"No need, But assure that your application documents are in the hands of the admissions office prior to the test center's deadline.",17
+230,"No need, But be sure your application requirements have reached the admissions office prior to the test center's deadline.",17
+231,"No need, But ensure the admissions office has received your application materials before the test center's deadline.",17
+232,"No need, But validate that your application requirements have been submitted to the admissions office before the test center's deadline.",17
+233,"No need, But confirm your application materials have been delivered to the admissions office before the test center's deadline.",17
+234,"No need, But make sure your application requirements are received by the admissions office prior to the test center's deadline.",17
+235,"No need, But guarantee your application documents are in the possession of the admissions office before the test center's deadline.",17
+236,"No need, But double-check your application materials are submitted to the admissions office before the test center's deadline.",17
+237,"No need, But verify your application requirements have reached the admissions office prior to the test center's deadline.",17
+238,"No need, But ensure your application documents are in the hands of the admissions office before the test center's deadline.",17
+239,"No need, But confirm your application materials have been delivered to the admissions office before the test center's deadline.",17
+240,"No need, But assure your application requirements have been received by the admissions office before the test center's deadline.",17
+241,"No need, But make certain the admissions office has received your application materials before the test center's deadline.",17
+242,"No need, But guarantee that your application requirements have reached the admissions office before the test center's deadline.",17
+243,"No need, But be sure your application documents are submitted to the admissions office before the test center's deadline.",17
+244,"No need, But validate your application requirements are in the possession of the admissions office before the test center's deadline.",17
+245,"No need, But confirm that your application materials have been received by the admissions office before the test center's deadline.",17
+246,"No need, But ensure your application requirements have been delivered to the admissions office before the test center's deadline.",17
+247,"No need, But double-check your application materials have reached the admissions office before the test center's deadline.",17
+248,"No need, But verify that your application documents are submitted to the admissions office before the test center's deadline.",17
+249,"No need, But guarantee your application requirements are in the hands of the admissions office before the test center's deadline.",17
+250,"No need, But assure your application materials have been received by the admissions office before the test center's deadline.",17
+251,"No need, But make certain your application requirements have been delivered to the admissions office before the test center's deadline.",17
+252,"No need, But be sure the admissions office has received your application materials before the test center's deadline.",17
+253,"No need, But confirm your application requirements are submitted to the admissions office before the test center's deadline.",17
+254,"BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",18
+255,"The address of the BU Admission Office is in Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",18
+256,"Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",18
+257,"The format must be:
+ Recent 2x2
+ Unedited or Unfiltere4d studio-taken
+ In white background
+ With Signature
+ With name tag",19
+258,"Format of the picture must be:
+ Recent 2x2
+ Unedited or Unfiltere4d studio-taken
+ In white background
+ With Signature
+ With name tag",19
+259,Attain your postage stamp at the post office,20
+260,Get your postage stamp from the post office,20
+261,Obtain your mailing stamp from the post office,20
+262,Secure your mailing stamp at the post office,20
+263,Collect your mailing stamp at the post office,20
+264,Gather your mailing stamp from the post office,20
+265,Obtain your postage stamp conveniently from the post office,20
+266,Secure your postage stamp easily at the post office,20
+267,Collect your postage stamp swiftly at the post office,20
+268,"The mailing stamp's cost could exceed Php. 50, but it won't be below Php. 50.00.",21
+269,"The price of the mailing stamp may be higher than Php. 50, but it will not be less than Php. 50.00.",21
+270,"The mailing stamp might cost more than Php. 50, but it won't be below Php. 50.00.",21
+271,"The cost of the mailing stamp could exceed Php. 50, but it won't be lower than Php. 50.00.",21
+272,"The price of the mailing stamp may surpass Php. 50, but it won't fall under Php. 50.00.",21
+273,"The mailing stamp might be more than Php. 50, but it won't be less than Php. 50.00.",21
+274, Affix it onto the upper right corner of the long-sized window mailing envelope.,22
+275,Place it firmly on the upper-right corner of the long-sized window mailing envelope.,22
+276,Stick it securely to the upper right-hand corner of the long-sized window mailing envelope.,22
+277,Adhere it firmly to the top right corner of the long-sized window mailing envelope.,22
+278,Position it securely at the upper right corner of the long-sized window mailing envelope.,22
+279,Attach it securely to the upper right-hand corner of the long-sized window mailing envelope.,22
+280,Affix it firmly to the top right-hand corner of the long-sized window mailing envelope.,22
+281,Place it securely in the upper right corner of the long-sized window mailing envelope.,22
+282,Stick it firmly in the upper-right corner of the long-sized window mailing envelope.,22
+283,Adhere it securely in the upper right-hand corner of the long-sized window mailing envelope.,22
+284,Position it firmly at the top right corner of the long-sized window mailing envelope.,22
+285,Attach it securely at the upper right corner of the long-sized window mailing envelope.,22
+286,Affix it securely onto the upper right corner of the long-sized window mailing envelope.,22
+287,Place it securely on the upper-right corner of the long-sized window mailing envelope.,22
+288,Stick it firmly to the upper right-hand corner of the long-sized window mailing envelope.,22
+289,Adhere it securely to the top right corner of the long-sized window mailing envelope.,22
+290,Position it firmly in the upper right-hand corner of the long-sized window mailing envelope.,22
+291,Attach it securely to the top right corner of the long-sized window mailing envelope.,22
+292,Affix it securely in the upper-right corner of the long-sized window mailing envelope.,22
+293,Place it securely onto the upper right corner of the long-sized window mailing envelope.,22
+294,Stick it firmly in the upper right-hand corner of the long-sized window mailing envelope.,22
+295,Adhere it securely at the top right corner of the long-sized window mailing envelope.,22
+296,Position it firmly on the upper right corner of the long-sized window mailing envelope.,22
+297,Attach it securely at the upper right-hand corner of the long-sized window mailing envelope.,22
+298,Affix it securely to the top right-hand corner of the long-sized window mailing envelope.,22
+299,Place it securely in the upper-right corner of the long-sized window mailing envelope.,22
+300,Stick it firmly onto the upper right corner of the long-sized window mailing envelope.,22
+301,Adhere it securely to the upper right-hand corner of the long-sized window mailing envelope.,22
+302,Position it firmly at the top right-hand corner of the long-sized window mailing envelope.,22
+303,Your parents' certificate of contract is required for processing.,23
+304,Make sure to submit your parents' certificate of contract.,23
+305,Please ensure the certificate of contract from your parents is submitted.,23
+306,Don't forget to submit the certificate of contract from your parents.,23
+307,Kindly provide the certificate of contract signed by your parents.,23
+308,Your parents' certificate of contract must be submitted.,23
+309,Please submit the required certificate of contract from your parents.,23
+310,Ensure your parents' certificate of contract is included in your submission.,23
+311,We need the certificate of contract from your parents for processing.,23
+312,Don't forget to include your parents' certificate of contract.,23
+313,Your parents' certificate of contract is necessary for your application.,23
+314,Please ensure your parents' certificate of contract is submitted.,23
+315,"Submit the certificate of contract from your parents, please.",23
+316,It's essential to include your parents' certificate of contract.,23
+317,Your parents' certificate of contract is a required document.,23
+318,Make sure your parents' certificate of contract is included in your submission.,23
+319,Please submit your parents' signed certificate of contract.,23
+320,Don't forget to include the certificate of contract from your parents.,23
+321,Kindly ensure your parents' certificate of contract is submitted.,23
+322,Your parents' certificate of contract is a necessary submission.,23
+323,Make sure your parents' signed certificate of contract is included.,23
+324,Submit your parents' certificate of contract along with your application.,23
+325,It's important to provide your parents' certificate of contract.,23
+326,Ensure your parents' certificate of contract is included with your submission.,23
+327,Please don't forget to include your parents' signed certificate of contract.,23
+328,Remember to submit your parents' certificate of contract.,23
+329,Please submit the required certificate of contract signed by your parents.,23
+330,Ensure the certificate of contract from your parents is submitted.,23
+331,It's necessary to submit your parents' certificate of contract,23
+332,"DSWD Regional Offices will provide BU Admissions with a copy, including the names of SHS Students who are recipients of the 4Ps program.",24
+333,"BU Admissions will be provided with a copy by DSWD Regional Offices, containing the names of SHS Students enrolled in the 4Ps program.",24
+334,"A copy, encompassing the names of SHS Students who are participants in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+335,"DSWD Regional Offices will transmit a copy to BU Admissions, with the names of SHS Students benefiting from the 4Ps program.",24
+336,"BU Admissions will receive a copy from DSWD Regional Offices, comprising the names of SHS Students who are recipients of the 4Ps program.",24
+337,"A copy, listing the names of SHS Students who are enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+338,"DSWD Regional Offices will send a copy to BU Admissions, containing the names of SHS Students who are part of the 4Ps program.",24
+339,"BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are beneficiaries of the 4Ps program.",24
+340,"DSWD Regional Offices will provide BU Admissions with a copy, which includes the names of SHS Students who are participants in the 4Ps program.",24
+341,"BU Admissions will be provided with a copy by DSWD Regional Offices, encompassing the names of SHS Students benefiting from the 4Ps program.",24
+342,"A copy, including the names of SHS Students who are recipients of the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+343,"DSWD Regional Offices will transmit a copy to BU Admissions, comprising the names of SHS Students who are enrolled in the 4Ps program.",24
+344,"BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are part of the 4Ps program.",24
+345,"DSWD Regional Offices will send a copy to BU Admissions, with the names of SHS Students who are recipients of the 4Ps program.",24
+346,"BU Admissions will receive a copy from DSWD Regional Offices, containing the names of SHS Students enrolled in the 4Ps program.",24
+347,"A copy, containing the names of SHS Students who are participants in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+348,"DSWD Regional Offices will provide BU Admissions with a copy, listing the names of SHS Students who are beneficiaries of the 4Ps program.",24
+349,"BU Admissions will be provided with a copy by DSWD Regional Offices, including the names of SHS Students who are recipients of the 4Ps program.",24
+350,"A copy, encompassing the names of SHS Students who are enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+351,"DSWD Regional Offices will transmit a copy to BU Admissions, with the names of SHS Students who are part of the 4Ps program.",24
+352,"BU Admissions will receive a copy from DSWD Regional Offices, comprising the names of SHS Students who are beneficiaries of the 4Ps program.",24
+353,"DSWD Regional Offices will send a copy to BU Admissions, including the names of SHS Students who are participants in the 4Ps program.",24
+354,"BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are recipients of the 4Ps program.",24
+355,"A copy, containing the names of SHS Students who are enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+356,"DSWD Regional Offices will provide BU Admissions with a copy, which includes the names of SHS Students who are part of the 4Ps program.",24
+357,"BU Admissions will be provided with a copy by DSWD Regional Offices, listing the names of SHS Students who are beneficiaries of the 4Ps program.",24
+358,"A copy, encompassing the names of SHS Students who are recipients of the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+359,"DSWD Regional Offices will transmit a copy to BU Admissions, including the names of SHS Students who are enrolled in the 4Ps program.",24
+360,"BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are participants in the 4Ps program.",24
+361,Remember to provide your guardian's tax exemption certificate.,25
+362,Don't forget to submit your guardian's certificate of tax exemption.,25
+363,Make sure your guardian's tax exemption certificate is included.,25
+364,Please ensure your guardian's certificate of tax exemption is included.,25
+365,Submit your guardian's tax exemption certificate along with your application.,25
+366,Your guardian's tax exemption certificate is a required document.,25
+367,Make sure to submit your guardian's tax exemption certificate.,25
+368,Please don't forget to provide your guardian's tax exemption certificate.,25
+369,Remember to submit your guardian's tax exemption certificate.,25
+370,Please ensure your guardian's certificate of tax exemption is submitted.,25
+371,Your guardian's certificate of tax exemption must be included in your submission.,25
+372,Please ensure your guardian's tax exemption certificate is included.,25
+373,Submit your guardian's certificate of tax exemption along with your application.,25
+374,Your guardian's tax exemption certificate must be included in your submission.,25
+375,Remember to ensure your guardian's certificate of tax exemption is submitted.,25
+376,Your guardian's certificate of tax exemption is necessary for your application.,25
+377,Make sure your guardian's certificate of tax exemption is included in your submission.,25
+378,Please don't forget to ensure your guardian's tax exemption certificate is submitted.,25
+379,Remember to include your guardian's tax exemption certificate in your submission.,25
+380,Your guardian's tax exemption certificate is required for your application.,25
+381,Ensure your guardian's certificate of tax exemption is included with your submission.,25
+382,Please ensure your guardian's tax exemption certificate is included in your submission.,25
+383,Make sure your guardian's tax exemption certificate is submitted.,25
+384,Don't forget to ensure your guardian's certificate of tax exemption is included.,25
+385,Your guardian's tax exemption certificate must be submitted.,25
+386,Please don't forget to include your guardian's certificate of tax exemption.,25
+387,Your guardian's certificate of tax exemption is necessary for submission.,25
+388,Make sure your guardian's certificate of tax exemption is submitted.,25
+389,You can email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099,26
+390,"To address your concerns, you may contact the BUAO.BUCET@GMAIL.COM or call at (052)742-5099",26
+391,"For reaching out your concerns, you may email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099",26
+392,The University Registrar notes that the intention is to send the request letter for Form 137 from the student's prior academic institution.,27
+393,"As per the University Registrar, the objective is to mail the request letter for Form 137 from the student's former educational establishment.",27
+394,"According to the University Registrar, it is intended for mailing the request letter for Form 137 from the student's previous academic institution.",27
+395,The University Registrar clarifies that it is for mailing the request letter for Form 137 from the student's former educational institution.,27
+396,It is conveyed by the University Registrar that the purpose is to mail the request letter for Form 137 from the student's prior school.,27
+397,"According to the University Registrar, the intention is to send the request letter for Form 137 from the student's previous academic establishment.",27
+398,The University Registrar states that it is for mailing the request letter for Form 137 from the student's previous academic institution.,27
+399,"As stated by the University Registrar, the objective is to mail the request letter for Form 137 from the student's prior educational establishment.",27
+400,"According to the University Registrar, it is meant for mailing the request letter for Form 137 from the student's previous educational institution.",27
+401,The University Registrar mentions that it is for mailing the request letter for Form 137 from the student's prior academic establishment.,27
+402,"As per the University Registrar, the purpose is to mail the request letter for Form 137 from the student's former academic institution.",27
+403,"According to the University Registrar, it is for mailing the request letter for Form 137 from the student's prior academic institution.",27
+404,"Affirmative, the postage stamp is allowed to be over 40 pesos, but it must not be less than 40 pesos.",28
+405,"Yes, the mailing stamp can exceed 40 pesos in value, but it must not be lower than 40 pesos.",28
+406,"Indeed, the postage stamp's price can surpass 40 pesos, as long as it remains at or above 40 pesos.",28
+407,"Absolutely, the mailing stamp's value can be higher than 40 pesos, but it cannot be less than 40 pesos.",28
+408,"Correct, the postage stamp's cost may surpass 40 pesos, provided it does not fall below 40 pesos.",28
+409,"Yes, the mailing stamp can be valued at more than 40 pesos, but it cannot be less than 40 pesos.",28
+410,"Affirmative, the postage stamp's price can exceed 40 pesos, but it should not be less than 40 pesos.",28
+411,"Indeed, the mailing stamp's value may go beyond 40 pesos, but it should not be lower than 40 pesos.",28
+412,"Yes, the postage stamp can be priced higher than 40 pesos, but it must not be less than 40 pesos.",28
+413,"Correct, the mailing stamp's cost can be greater than 40 pesos, but it should not be less than 40 pesos.",28
+414,"Absolutely, the postage stamp's value can surpass 40 pesos, provided it does not drop below 40 pesos.",28
+415,"Affirmative, the mailing stamp can exceed 40 pesos in value, but it should not be less than 40 pesos.",28
+416,"Yes, the postage stamp's price may go over 40 pesos, but it must not be less than 40 pesos.",28
+417,"Indeed, the mailing stamp can be valued at more than 40 pesos, but it cannot be lower than 40 pesos.",28
+418,"The postage cost should be 40 pesos, either precisely 40 pesos or greater.",29
+419,"The price of the mailing stamp should be 40 pesos, a total of 40 pesos or higher.",29
+420,"The postage fee must amount to 40 pesos, totaling either 40 pesos or more.",29
+421,"The mailing stamp should cost 40 pesos, totaling either 40 pesos or surpassing it.",29
+422,"The postage cost needs to be 40 pesos, either precisely 40 pesos or more than this amount.",29
+423,"The price of the mailing stamp should be 40 pesos, totaling either 40 pesos or exceeding this sum.",29
+424,"The postage fee should be 40 pesos, either exactly 40 pesos or higher than this amount.",29
+425,"The cost of the mailing stamp should amount to 40 pesos, totaling either 40 pesos or greater.",29
+426,"The mailing stamp should be priced at 40 pesos, a sum totaling either 40 pesos or more.",29
+427,"The postage cost should be 40 pesos, either precisely 40 pesos or exceeding this amount.",29
+428,"The price of the mailing stamp should be 40 pesos, a total of 40 pesos or more.",29
+429,"The postage fee must amount to 40 pesos, totaling either 40 pesos or surpassing this amount.",29
+430,"The mailing stamp should cost 40 pesos, totaling either 40 pesos or more than this sum.",29
+431,"As per the new Administrative Order from the University President, the requirement of a Medical Certificate for enrollment will be temporarily suspended, recognizing the current situation and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+432,"The recent Administrative Order issued by the University President specifies that the necessity of a Medical Certificate for enrollment will be temporarily lifted, taking into account the prevailing circumstances and compliance with the protocols of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+433,"In line with the recent Administrative Order by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily waived, considering the current situation and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+434,"The University President's recent Administrative Order indicates that the requirement for a Medical Certificate for enrollment will be temporarily suspended, acknowledging the ongoing circumstances and compliance with the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+435,"As outlined in the latest Administrative Order by the University President, the necessity of a Medical Certificate for enrollment will be temporarily exempted, considering the present situation and adherence to the regulations of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+436,"Per the recent Administrative Order issued by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily disregarded, recognizing the current situation and compliance with the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+437,"According to the new Administrative Order from the University President, the requirement of a Medical Certificate for enrollment will be temporarily waived, considering the prevailing circumstances and adherence to the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+438,"As per the recent Administrative Order issued by the University President, the necessity of a Medical Certificate for enrollment will be temporarily suspended, recognizing the current situation and adherence to the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+439,"The University President's recent Administrative Order specifies that the requirement for a Medical Certificate for enrollment will be temporarily lifted, considering the ongoing circumstances and compliance with the protocols of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+440,"In line with the recent Administrative Order by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily waived, considering the current situation and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+441,"The University President's recent Administrative Order indicates that the requirement for a Medical Certificate for enrollment will be temporarily suspended, acknowledging the prevailing circumstances and compliance with the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+442,"As outlined in the latest Administrative Order by the University President, the necessity of a Medical Certificate for enrollment will be temporarily exempted, recognizing the current situation and adherence to the regulations of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+443,"Documents to be passed through scanned copy:
+ 1. BUCET Result
+ 2. SHS Report Card
+ 3. Medical Certificate (only to those who can provide now)
+ 4. Birth Certificate
+ 5. 2 pcs of 2x2 picture",31
+444,"Documents to be submitted in digital form:
+ 1. BUCET Result
+ 2. SHS Report Card
+ 3. Medical Certificate (only to those who can provide now)
+ 4. Birth Certificate
+ 5. 2 pcs of 2x2 picture",31
+445,"List of documents to be passed in digital/scanned form:
+ 1. BUCET Result
+ 2. SHS Report Card
+ 3. Medical Certificate (only to those who can provide now)
+ 4. Birth Certificate
+ 5. 2 pcs of 2x2 picture",31
+446,"Yes, there will be available dropboxes in satellite campuses of Bicol University.",32
+447,"Yes, drop-off points will be provided at the satellite campuses of Bicol University.",32
+448,"Indeed, dropboxes will be accessible at the satellite campuses of Bicol University.",32
+449,"Certainly, there will be designated drop-off locations at Bicol University's satellite campuses.",32
+450,"Absolutely, dropboxes will be installed at the satellite campuses of Bicol University.",32
+451,"Without a doubt, there will be drop-off facilities at Bicol University's satellite campuses.",32
+452,"Certainly, dropboxes will be set up at the satellite campuses of Bicol University.",32
+453,It is confirmed that drop-off points will be available at Bicol University's satellite campuses.,32
+454,"Indeed, dropboxes will be present at the satellite campuses of Bicol University.",32
+455,"Without question, drop-off boxes will be placed at Bicol University's satellite campuses.",32
+456,"Certainly, there will be accessible drop-off locations at Bicol University's satellite campuses.",32
+457,"Affirmative, there will be designated drop-off areas at Bicol University's satellite campuses.",32
+458,"Absolutely, dropboxes will be provided at the satellite campuses of Bicol University.",32
+459,It is confirmed that drop-off points will be accessible at Bicol University's satellite campuses.,32
+460,"Indeed, drop-off boxes will be installed at the satellite campuses of Bicol University.",32
+461,"Without a doubt, there will be drop-off locations at Bicol University's satellite campuses.",32
+462,"Certainly, dropboxes will be positioned at the satellite campuses of Bicol University.",32
+463,It is confirmed that drop-off facilities will be available at Bicol University's satellite campuses.,32
+464,"Indeed, dropboxes will be situated at the satellite campuses of Bicol University.",32
+465,"Without question, there will be designated drop-off spots at Bicol University's satellite campuses.",32
+466,"Certainly, there will be accessible drop-off points at Bicol University's satellite campuses.",32
+467,The University Registrar has made it clear that the Grade 12 Report Card is obligatory for enrollment.,33
+468,"According to the University Registrar's instructions, your Grade 12 Report Card must be sent.",33
+469,"The Grade 12 Report Card stands out as a fundamental requisite for university enrollment, as emphasized by the office.",33
+470,"As per the University Registrar's guidelines, only the Grade 12 Report Card is needed.",33
+471,"The Grade 12 Report Card is highlighted as a primary condition for enrollment at the university, as per the University Registrar.",33
+472,The University Registrar has specified that sending your Grade 12 Report Card suffices.,33
+473,"In line with the University Registrar's directives, the Grade 12 Report Card is indispensable.",33
+474,The University Registrar underscores the necessity of providing the Grade 12 Report Card for enrollment purposes.,33
+475,The Grade 12 Report Card is identified by the university office as a foundational requirement for enrollment.,33
+476,"According to the University Registrar, enrollment necessitates the submission of the Grade 12 Report Card exclusively.",33
+477,The University Registrar emphasizes the importance of including the Grade 12 Report Card in your submission.,33
+478,"As per the University Registrar's communication, your Grade 12 Report Card is the primary document required.",33
+479,"The Grade 12 Report Card is stressed as a crucial document for university enrollment, according to the University Registrar.",33
+480,"College of Science Courses(CS):
+ 1. Bachelor of Science in Biology
+ 2. Bachelor of Science in Chemistry
+ 3. Bachelor of Science in Computer Science
+ 4. Bachelor of Science in Information Technology
+ 5. Bachelor of Science in Meteorology",34
+481,"Courses Available in College of Science (CS):
+ 1. Bachelor of Science in Biology
+ 2. Bachelor of Science in Chemistry
+ 3. Bachelor of Science in Computer Science
+ 4. Bachelor of Science in Information Technology
+ 5. Bachelor of Science in Meteorology",34
+482,"Here is the list of available courses in College of Science (CS):
+ 1. Bachelor of Science in Biology
+ 2. Bachelor of Science in Chemistry
+ 3. Bachelor of Science in Computer Science
+ 4. Bachelor of Science in Information Technology
+ 5. Bachelor of Science in Meteorology",34
+483,"College of Social Sciences and Philosophy (CSSP) Courses:
+ 1. AB Peace Studies
+ 2. AB Philosophy
+ 3. AB Political Science
+ 4. AB Sociology
+ 5. BS Psychology
+ 6. BS Social Work",35
+484,"Courses Available in Collge of Social Sciences and Philosophy (CSSP):
+ 1. AB Peace Studies
+ 2. AB Philosophy
+ 3. AB Political Science
+ 4. AB Sociology
+ 5. BS Psychology
+ 6. BS Social Work",35
+485,"List of available courses in College of Social Sciences and Philosophy (CSSP):
+ 1. AB Peace Studies
+ 2. AB Philosophy
+ 3. AB Political Science
+ 4. AB Sociology
+ 5. BS Psychology
+ 6. BS Social Work",35
+486,"BU Tabaco (BUTC Courses:
+ 1. Secondary Education Major in Science
+ 2. Secondary Education Major in Math
+ 3. BS Entrepreneurship
+ 4. BS Fisheries
+ 5.  BS Food Technology
+ 6. BS Nursing
+ 7.  BS Social Work",36
+487,"Courses Available in BU Tabaco (BUTC:
+ 1. Secondary Education Major in Science
+ 2. Secondary Education Major in Math
+ 3. BS Entrepreneurship
+ 4. BS Fisheries
+ 5.  BS Food Technology
+ 6. BS Nursing
+ 7.  BS Social Work",36
+488,"List of courses at BU Tabaco (BUTC:
+ 1. Secondary Education Major in Science
+ 2. Secondary Education Major in Math
+ 3. BS Entrepreneurship
+ 4. BS Fisheries
+ 5.  BS Food Technology
+ 6. BS Nursing
+ 7.  BS Social Work",36
+489,"College of Education (CE) Courses:
+ 1. Early Childhood Education
+ 2. Elementary Education
+ 3. Secondary Education
+ 4. Bachelor of Culture and Arts Education",37
+490,"Courses Available in College of Education (CE):
+ 1. Early Childhood Education
+ 2. Elementary Education
+ 3. Secondary Education
+ 4. Bachelor of Culture and Arts Education",37
+491,"List of courses in College of Education (CE):
+ 1. Early Childhood Education
+ 2. Elementary Education
+ 3. Secondary Education
+ 4. Bachelor of Culture and Arts Education",37
+492,"BU Gubat Campus (GC Courses:
+ 1. Elementary Education
+ 2. Secondary Education major in Filipino
+ 3. Secondary Education major in Social Studies
+ 4. BS Entrepreneurship
+ 5. BSBA Major in Microfinance",38
+493,"Courses in BU Gubat Campus (GC:
+ 1. Elementary Education
+ 2. Secondary Education major in Filipino
+ 3. Secondary Education major in Social Studies
+ 4. BS Entrepreneurship
+ 5. BSBA Major in Microfinance",38
+494,"List of courses in BU Gubat Campus (GC:
+ 1. Elementary Education
+ 2. Secondary Education major in Filipino
+ 3. Secondary Education major in Social Studies
+ 4. BS Entrepreneurship
+ 5. BSBA Major in Microfinance",38
+495,"College of Arts and Letters (CAL) Courses:
+ 1. AB Broadcasting
+ 2. AB Communication
+ 3.  AB English Language
+ 4. AB Journalism
+ 5. AB Performing Arts (BPeA) Theater
+ 6. AB Literature",39
+496,"Courses in College of Arts and Letters (CAL):
+ 1. AB Broadcasting
+ 2. AB Communication
+ 3.  AB English Language
+ 4. AB Journalism
+ 5. AB Performing Arts (BPeA) Theater
+ 6. AB Literature",39
+497,"List of courses College of Arts and Letters (CAL):
+ 1. AB Broadcasting
+ 2. AB Communication
+ 3.  AB English Language
+ 4. AB Journalism
+ 5. AB Performing Arts (BPeA) Theater
+ 6. AB Literature",39
+498,"Institute of Design and Architecture (IDeA) Courses:
+ 1. BS Architecture",40
+499,"Courses in Institute of Design and Architecture (IDeA):
+ 1. BS Architecture",40
+500,"List of available courses in Institute of Design and Architecture (IDeA):
+ 1. BS Architecture",40
+501,"College of Nursing (CN) Courses:
+ 1. BS Nursing",41
+502,"Courses in College of Nursing (CN):
+ 1. BS Nursing",41
+503,"List of courses College of Nursing (CN):
+ 1. BS Nursing",41
+504,"Jesse M. Robredo Institute of Governance and Development (JMRIGD) Courses:
+ 1. Public Administration",42
+505,"Courses in Jesse M. Robredo Institute of Governance and Development (JMRIGD):
+ 1. Public Administration",42
+506,"List of courses in Jesse M. Robredo Institute of Governance and Development (JMRIGD):
+ 1. Public Administration",42
+507,"Institute of Physical Education, Sports and Recreation (IPESR) Courses:
+ 1. BS in Exercise & Sports Sciences
+ 2. Bachelor of Physical Education",43
+508,"Courses in Institute of Physical Education, Sports and Recreation (IPESR)?:
+ 1. BS in Exercise & Sports Sciences
+ 2. Bachelor of Physical Education",43
+509,"List of courses in Institute of Physical Education, Sports and Recreation (IPESR)?:
+ 1. BS in Exercise & Sports Sciences
+ 2. Bachelor of Physical Education",43
+510,"College of Business, Economics and Management (CBEM) Courses:
+ 1. BS Accountancy
+ 2. BS Economics
+ 3. BS Entrepreneurship
+ 4. BSBA Major in Financial Management
+ 5. BSBA Major in Human Resource Management
+ 6. BS Management
+ 7. BSBA Major in Marketing Management
+ 8. BSBA Microfinance
+ 9. BSBA Major in Operations Management",44
+511,"Courses at College of Business, Economics and Management (CBEM):
+ 1. BS Accountancy
+ 2. BS Economics
+ 3. BS Entrepreneurship
+ 4. BSBA Major in Financial Management
+ 5. BSBA Major in Human Resource Management
+ 6. BS Management
+ 7. BSBA Major in Marketing Management
+ 8. BSBA Microfinance
+ 9. BSBA Major in Operations Management",44
+512,"List of courses in College of Business, Economics and Management (CBEM):
+ 1. BS Accountancy
+ 2. BS Economics
+ 3. BS Entrepreneurship
+ 4. BSBA Major in Financial Management
+ 5. BSBA Major in Human Resource Management
+ 6. BS Management
+ 7. BSBA Major in Marketing Management
+ 8. BSBA Microfinance
+ 9. BSBA Major in Operations Management",44
+513,"College of Industrial Technology (CIT) Courses:
+ 1. BS Automotive Technology
+ 2. BS Civil Technology
+ 3. BS Electrical Technology
+ 4. BS Electronics Technology
+ 5. BS Mechanical Technology
+ 6. BS Food Technology
+ 7. Industrial Design
+ 8. Technical - Vocational Teacher Educ. Major in Drafting Technology
+ 9. Technical - Vocational Teacher Educ. Major in Electrical Technology
+ 10. Technical - Vocational Teacher Educ. Major in Food Service Management
+ 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design",45
+514,"Courses in College of Industrial Technology (CIT):
+ 1. BS Automotive Technology
+ 2. BS Civil Technology
+ 3. BS Electrical Technology
+ 4. BS Electronics Technology
+ 5. BS Mechanical Technology
+ 6. BS Food Technology
+ 7. Industrial Design
+ 8. Technical - Vocational Teacher Educ. Major in Drafting Technology
+ 9. Technical - Vocational Teacher Educ. Major in Electrical Technology
+ 10. Technical - Vocational Teacher Educ. Major in Food Service Management
+ 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design",45
+515,"List of courses College of Industrial Technology (CIT):
+ 1. BS Automotive Technology
+ 2. BS Civil Technology
+ 3. BS Electrical Technology
+ 4. BS Electronics Technology
+ 5. BS Mechanical Technology
+ 6. BS Food Technology
+ 7. Industrial Design
+ 8. Technical - Vocational Teacher Educ. Major in Drafting Technology
+ 9. Technical - Vocational Teacher Educ. Major in Electrical Technology
+ 10. Technical - Vocational Teacher Educ. Major in Food Service Management
+ 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design",45
+516,"College of Engineering (CENG) Courses:
+ 1. BS Chemical Engineering
+ 2. BS Civil Engineering
+ 3. BS Electrical Engineering
+ 4. BS Geodetic Engineering
+ 5. BS Mechanical Engineering
+ 6. BS Mining Engineering",46
+517,"Courses in College of Engineering (CENG):
+ 1. BS Chemical Engineering
+ 2. BS Civil Engineering
+ 3. BS Electrical Engineering
+ 4. BS Geodetic Engineering
+ 5. BS Mechanical Engineering
+ 6. BS Mining Engineering",46
+518,"List of courses in College of Engineering (CENG):
+ 1. BS Chemical Engineering
+ 2. BS Civil Engineering
+ 3. BS Electrical Engineering
+ 4. BS Geodetic Engineering
+ 5. BS Mechanical Engineering
+ 6. BS Mining Engineering",46
+519,"Bicol University Guinobatan Courses:
+ 1. BS Agribusiness
+ 2. BS Agricultural & Biosystems Engineering
+ 3. BS Agriculture
+ 4. BS Forestry
+ 5. Technical - Vocational Teacher Educ. Major in Animal Production
+ 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production
+ 7. BS Food Technology
+ 8. Doctor of Veterinary Medicine",47
+520,"Courses in Bicol University Guinobatan:
+ 1. BS Agribusiness
+ 2. BS Agricultural & Biosystems Engineering
+ 3. BS Agriculture
+ 4. BS Forestry
+ 5. Technical - Vocational Teacher Educ. Major in Animal Production
+ 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production
+ 7. BS Food Technology
+ 8. Doctor of Veterinary Medicine",47
+521,"List of courses in Bicol University Guinobatan:
+ 1. BS Agribusiness
+ 2. BS Agricultural & Biosystems Engineering
+ 3. BS Agriculture
+ 4. BS Forestry
+ 5. Technical - Vocational Teacher Educ. Major in Animal Production
+ 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production
+ 7. BS Food Technology
+ 8. Doctor of Veterinary Medicine",47
+522,"Bicol University Polangui Courses:
+ 1. Elementary Education
+ 2. Secondary Education Major in English
+ 3. Secondary Education Major in Math
+ 4. BS Automotive Technology
+ 5. BS Computer Engineering
+ 6. BS Computer Science
+ 7. BS Electronics Engineering
+ 8. BS Electronics Technology
+ 9. BS Entrepreneurship
+ 10. BS Information System
+ 11. BS Information Technology
+ 12. BS Information Technology (Animation)
+ 13. BS Mechanical Technology
+ 14. BS Nursing
+ 15. Technology and Livelihood Education (BTLed-ICT)
+ 16. Technology and Livelihood Education (BTLEd-Home Economics)",48
+523,"Courses in Bicol University Polangui:
+ 1. Elementary Education
+ 2. Secondary Education Major in English
+ 3. Secondary Education Major in Math
+ 4. BS Automotive Technology
+ 5. BS Computer Engineering
+ 6. BS Computer Science
+ 7. BS Electronics Engineering
+ 8. BS Electronics Technology
+ 9. BS Entrepreneurship
+ 10. BS Information System
+ 11. BS Information Technology
+ 12. BS Information Technology (Animation)
+ 13. BS Mechanical Technology
+ 14. BS Nursing
+ 15. Technology and Livelihood Education (BTLed-ICT)
+ 16. Technology and Livelihood Education (BTLEd-Home Economics)",48
+524,"List of courses in Bicol University Polangui:
+ 1. Elementary Education
+ 2. Secondary Education Major in English
+ 3. Secondary Education Major in Math
+ 4. BS Automotive Technology
+ 5. BS Computer Engineering
+ 6. BS Computer Science
+ 7. BS Electronics Engineering
+ 8. BS Electronics Technology
+ 9. BS Entrepreneurship
+ 10. BS Information System
+ 11. BS Information Technology
+ 12. BS Information Technology (Animation)
+ 13. BS Mechanical Technology
+ 14. BS Nursing
+ 15. Technology and Livelihood Education (BTLed-ICT)
+ 16. Technology and Livelihood Education (BTLEd-Home Economics)",48
+525,Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine,49
+526,Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine,49
+527,Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine,49
+528,"Check out the following! 
+ I. General Requirements:
+ 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR
+ 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.
+ II. Specific Requirements:
+ 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.
+ 2. Two(2) copies of “2x2” recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;
+ 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;
+ 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.
+ 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);
+ 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);
+ 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);
+ 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);
+ 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;
+ 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);
+ 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;
+",50
+529,"I hope this helps!
+ I. General Requirements:
+ 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR
+ 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.
+ II. Specific Requirements:
+ 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.
+ 2. Two(2) copies of “2x2” recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;
+ 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;
+ 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.
+ 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);
+ 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);
+ 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);
+ 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);
+ 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;
+ 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);
+ 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;
+",50
+530,"Check this out.
+ I. General Requirements:
+ 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR
+ 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.
+ II. Specific Requirements:
+ 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.
+ 2. Two(2) copies of “2x2” recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;
+ 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;
+ 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.
+ 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);
+ 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);
+ 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);
+ 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);
+ 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;
+ 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);
+ 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;
+",50
+531,"To submit your BUCET requirements, check out the steps below
+ 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5”x13”) bond paper for printing the form;
+ 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;
+ 3. The following options are provided on how to submit your BUCET application documents:
+    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;
+    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;
+    Option 3: Mail your BUCET Application documents through any courier service available in your locality;
+ 4. Assigned BUAO personnel will check and validate your requirements;
+ 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;
+ 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;
+    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled.",51
+532,"How to submit BUCET requirements?
+ 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5”x13”) bond paper for printing the form;
+ 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;
+ 3. The following options are provided on how to submit your BUCET application documents:
+    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;
+    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;
+    Option 3: Mail your BUCET Application documents through any courier service available in your locality;
+ 4. Assigned BUAO personnel will check and validate your requirements;
+ 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;
+ 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;
+    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled.",51
+533,"Submission steps of BUCET requirements
+ 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5”x13”) bond paper for printing the form;
+ 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;
+ 3. The following options are provided on how to submit your BUCET application documents:
+    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;
+    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;
+    Option 3: Mail your BUCET Application documents through any courier service available in your locality;
+ 4. Assigned BUAO personnel will check and validate your requirements;
+ 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;
+ 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;
+    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled.",51
+534,"The Bicol University Admissions Office will publish the list of passers on their official webpage, and you will also receive an email notification at your official email address.",52
+535,"Expect to see the names of those who passed on the official page of the Bicol University Admissions Office, and simultaneously, an email will be sent to your official email address.",52
+536,"The list of successful candidates will be available on the official webpage of the Bicol University Admissions Office, and you will also receive an email notification at your official email address.",52
+537,"On their official page, the Bicol University Admissions Office will post the roster of passers, and you will simultaneously receive an email at your official email address.",52
+538,"Check the official webpage of the Bicol University Admissions Office for the list of successful candidates, and simultaneously, an email will be sent to your official email address.",52
+539,"The Bicol University Admissions Office will display the list of passers on their official page, and you will concurrently receive an email at your official email address.",52
+540,"Look for the list of individuals who passed on the official webpage of the Bicol University Admissions Office, and you will also receive an email notification at your official email address.",52
+541,"The roster of successful candidates will be published on the official page of the Bicol University Admissions Office, and an email will be sent to your official email address simultaneously.",52
+542,"The Bicol University Admissions Office will release the list of passers on their official webpage, and you will receive an email notification at your official email address at the same time.",52
+543,"On the official webpage of the Bicol University Admissions Office, you will find the list of individuals who passed, and simultaneously, an email will be sent to your official email address.",52
+544,"The list of successful candidates will be posted on the official webpage of the Bicol University Admissions Office, and you will receive an email notification at your official email address simultaneously.",52
+545,"Check the official page of the Bicol University Admissions Office for the roster of passers, and expect to receive an email at your official email address simultaneously.",52
+546,"To check:
+1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR
+ 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply.",53
+547,"Check out the pre-requisites:
+1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR
+ 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply.",53
+548,"To confirm if your qualified:
+1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR
+ 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply.",53
+549,"Within the examination, sub-tests assess proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+550,"The assessment consists of sections examining proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+551,"The examination is structured with sub-tests in English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+552,"Sub-tests within the exam evaluate proficiency in English Language, Mathematics, Science, and Reading Comprehension.",54
+553,"The test comprises sections on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+554,"The examination includes sub-tests assessing proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+555,"Within the exam, there are sections focused on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+556,"The assessment involves sub-tests covering proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+557,"Sub-tests within the examination evaluate proficiency in English Language, Mathematics, Science, and Reading Comprehension.",54
+558,"The test includes sections for evaluating proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+559,"Within the examination, sub-tests assess proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+560,"The assessment consists of sections examining proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+561,"The examination is structured with sub-tests in English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+562,Refer to the paper that was handed to you after your examination.,55
+563,Look to your paper that was handed to you after your examination.,55
+564,You can found on the paper given to you after an examination.,55
+565,"To ascertain your examination venue, consult the test permit issued by BUAO.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+566,Bicol hosts numerous test centers for examination purposes.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php,56
+567,"The test permit, distributed by BUAO personnel, contains details of the allocated test center.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+568,"Across Bicol, test centers are strategically positioned.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+569,Identifying your exam venue in Bicol is facilitated by the test permit.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php,56
+570,"The test permit, handed out by BUAO personnel, specifies the test center.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+571,"Throughout Bicol, test centers are established to serve examinees.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+572,The test permit issued by BUAO personnel indicates the designated test center.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php,56
+573,"Across Bicol, there are multiple locations designated as test centers.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+574,"To locate your exam venue, refer to the test permit provided by BUAO personnel.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+575,"Bicol University offers various test centers, with details provided in the test permit distributed by BUAO personnel.",56
+576,"Yes, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files.",57
+577,"We advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files, but yes, you can.",57
+578,"You can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files.",57
+579,"Oh sure! To get the BUCET application form , you can visit this link https://buao.bicol-u.edu.ph.",5
+580,Hello there! Here is the link to apply: https://buao.bicol-u.edu.ph. Goodluck!:,5
+581,"Okay! If you're interested to apply, you can go to https://buao.bicol-u.edu.ph.",5
+582,"To get started with the application process, you can head over to https://buao.bicol-u.edu.ph.:",5
+583,I'd be happy to help you apply! Just visit this link https://buao.bicol-u.edu.ph.,5
+584,"If you want to apply, you can follow this link https://buao.bicol-u.edu.ph.",5
+585,Good to hear! Here's the link to apply: https://buao.bicol-u.edu.ph.,5
+586,"To apply, simply head over to https://buao.bicol-u.edu.ph.",5
+587,"Looks like your're interested to apply! To get started, you can visit https://buao.bicol-u.edu.ph to apply.",5
+588,"Hello user! To proceed with the application, you can follow the link to https://buao.bicol-u.edu.ph.",5
+589,"To start your application process, you can visit https://buao.bicol-u.edu.ph.",5
+590,"Hello, Aspiring BUEÑO! To apply, you can visit this link https://buao.bicol-u.edu.ph.",5
+591,"Great! If you want to apply, You can go to this site https://buao.bicol-u.edu.ph.",5
+592,"Nice! To begin the application process, you can visit [https://buao.bicol-u.edu.ph](https://buao.",5
+593,Visit the link to reschedule appointment date https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+594,"To reschedule your appointment date, visit the following link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+595,Reschedule your appointment date by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+596,"If you need to change your appointment date, you can click on the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+597,"For appointment date changes, please go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+598,"To adjust your appointment date, simply visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+599,Need to reschedule? Click the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+600,You can reschedule your appointment date by navigating to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+601,Change your appointment date by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+602,Want to reschedule? Visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+603,Adjust your appointment date by accessing: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+604,Reschedule your appointment date with ease by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+605,"To change your appointment date, go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",6
+606,Need to change the date? Follow the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,6
+607,Discover and download your application form by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+608,Retrieve your application form by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+609,Find and download your application form by clicking on the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+610,To find and download your application form visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+611,Visit the link to locate and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+612,Retrieve and download your application form by following the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+613,Visit the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+614,Access and download your application form by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+615,Obtain your application form by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+616,Click the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+617,Discover your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+618,Find and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+619,Locate your application form by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+620,Visit the link to find your application form for download: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+621,Retrieve your application form by clicking this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,7
+622,"To change or re-upload your picture, visit the following link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+623,Change or re-upload your picture accessing the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+624,"If you need to update your picture, you can click on the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+625,"For picture changes or re-uploads, please go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+626,"To adjust or re-upload your picture, simply visit: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+627,Need to change or re-upload? Click the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+628,You can change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+629,Update your picture by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+630,Want to change or re-upload? Visit this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+631,Adjust or re-upload your picture by accessing: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+632,Change or re-upload your picture with ease by clicking here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+633,"To update your picture, go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+634,Need to change or re-upload? Follow the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+635,Adjust or re-upload your picture easily by visiting: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,8
+636,"For picture changes or re-uploads, click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",8
+637,The submission of all documentary requirements is on a week before the examination day per test center.,9
+638,"A week before the examination day per test center, is the submission of all necessary requirements.",9
+639,Submission is a week before the examination day per test center,9
+640,The submission for all requirements is a week before the examination day per test center,9
+641,The passing of all the requirements needed is on aweek before the examination day per test center,9
+642,You can submit it on a week before the examination day per test center,9
+643,Deadline for submission of all documentary requirements is on a week before the examination day per test center,9
+644,Marked on your calendar it is on a week before the examination day per test center,9
+645,Submit it on a week before the examination day per test center,9
+646,A week before the examination day per test center is the deadline for submitting the requirements.,9
+647,It is on a week before the examination day per test center,9
+648,A week before the examination day per test center,9
+649,"FREE, the fee of PHP 250.00 is free for Filipino freshmen applicants pursuant to R.A. NO. 10931",10
+650,The registration fee of PHP 250.00 is waived for Filipino freshmen applicants under the provisions of R.A. NO. 10931.,10
+651,Filipino freshmen applicants are exempt from the PHP 250.00 fee in accordance with R.A. NO. 10931.,10
+652,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee.",10
+653,"Under R.A. NO. 10931, Filipino freshmen applicants are entitled to a waiver of the PHP 250.00 registration fee.",10
+654,The PHP 250.00 registration fee is waived for Filipino freshmen applicants in compliance with R.A. NO. 10931.,10
+655,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are granted exemption from the PHP 250.00 registration fee.",10
+656,Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee under the provisions of R.A. NO. 10931.,10
+657,The PHP 250.00 registration fee is waived for Filipino freshmen applicants pursuant to R.A. NO. 10931.,10
+658,"In accordance with R.A. NO. 10931, Filipino freshmen applicants are not required to pay the PHP 250.00 registration fee.",10
+659,"Pursuant to R.A. NO. 10931, Filipino freshmen applicants are exempted from the PHP 250.00 registration fee.",10
+660,Your complete BUCET requirements can be submitted by any authorized representative.,11
+661,Authorized representatives are permitted to submit your full BUCET requirements.,11
+662,Any designated representative is welcome to submit your entire BUCET requirements.,11
+663,Your complete BUCET requirements may be submitted by any representative authorized to do so.,11
+664,Authorized representatives have the privilege of submitting your full BUCET requirements.,11
+665,Any representative with authorization is allowed to submit your complete BUCET requirements.,11
+666,Representatives with proper authorization are permitted to submit your entire BUCET requirements.,11
+667,You have the option of having any authorized representative submit your complete BUCET requirements.,11
+668,Submission of your complete BUCET requirements is allowed by any representative with proper authorization.,11
+669,Any representative who is duly authorized is permitted to submit your entire BUCET requirements.,11
+670,You can authorize any representative to submit your complete BUCET requirements.,11
+671,Submission of your complete BUCET requirements is open to any authorized representative.,11
+672,"Do not re-apply. If you would like to make changes, print out your application form and edit it with a correction tape and use a blue ballpen.",12
+673,"Do not re-apply. If adjustments are needed, kindly print your application form and make edits using correction tape alongside a blue ballpen.",12
+674,"Do not re-apply. Should any modifications be necessary, please print out your application form and apply corrections with correction tape, utilizing a blue ballpen.",12
+675,"Do not re-apply. In case of any alterations, it's recommended to print your application form and amend it using correction tape, ensuring to use a blue ballpen.",12
+676,"Do not re-apply. For any revisions, we advise printing your application form and making changes using correction tape, employing a blue ballpen.",12
+677,"Do not re-apply. In the event of changes, it is best to print your application form and make corrections with correction tape, making use of a blue ballpen.",12
+678,"Do not re-apply. Should you need to make modifications, kindly print your application form and adjust it with correction tape, utilizing a blue ballpen.",12
+679,"Do not re-apply. If adjustments are necessary, please print out your application form and modify it with correction tape, using a blue ballpen.",12
+680,"Do not re-apply. Should you wish to make changes, it's recommended to print your application form and edit it with correction tape, ensuring to use a blue ballpen.",12
+681,"Do not re-apply. The case of any alterations, we suggest printing your application form and applying corrections with correction tape, using a blue ballpen.",12
+682,"Do not re-apply. For any revisions, it's advisable to print your application form and make adjustments with correction tape, employing a blue ballpen.",12
+683,"To correct mistakenly filled-out application form, follow the procedure below.\n 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\n 3. Add your initials or signature next to the updated information.\n Note: Do not use pdf editor",13
+684,"To fix mistakenly filled-out application form, follow the procedure below.\n 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\n 3. Add your initials or signature next to the updated information.\n Note: Do not use pdf editor",13
+685,"For the correction in application form, follow the procedure below.\n 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\n 3. Add your initials or signature next to the updated information.\n Note: Do not use pdf editor",13
+686,There's three option you can make\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality,14
+687,There's an option you can make\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality,14
+688,Here's the option you can make\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality,14
+689,Here's the list you can do\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality,14
+690,"To submit, you have three options\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality",14
+691,There's three option you can do\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.,15
+692,There's an option you can do\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.,15
+693,Here's the option you can do\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.,15
+694,Here's the list you can do\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.,15
+695,"To claim, you have three options\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",15
+696,"No need, But please ensure that your application requirements reach the admissions office before the scheduled deadline for the test center.",16
+697,"No need, But it is important to confirm that your application requirements have been received by the admissions office before the scheduled deadline for the test center.",16
+698,"No need, But make sure that your application requirements are received by the admissions office before the scheduled deadline for the test center.",16
+699,"No need, But verify that your application requirements have reached the admissions office before the scheduled deadline for the test center.",16
+700,"No need, But check to ensure that your application requirements have been submitted to the admissions office before the scheduled deadline for the test center.",16
+701,"No need, But double-check that your application requirements have reached the admissions office before the scheduled deadline for the test center.",16
+702,"No need, But confirm that your application requirements have been delivered to the admissions office before the scheduled deadline for the test center.",16
+703,"No need, But ensure that your application requirements have been sent to the admissions office before the scheduled deadline for the test center.",16
+704,"No need, But validate that your application requirements have been dispatched to the admissions office before the scheduled deadline for the test center.",16
+705,"No need, But be certain that your application requirements have been forwarded to the admissions office before the scheduled deadline for the test center.",16
+706,"No need, But make certain that your application requirements have been transmitted to the admissions office before the scheduled deadline for the test center.",16
+707,"No need, But it is imperative to ascertain that your application requirements have reached the admissions office before the scheduled deadline for the test center.",16
+708,"No need, But make sure to double-check and confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",17
+709,"No need, But it is crucial to verify with certainty that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",17
+710,"No need, But double-check and confirm that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",17
+711,"No need, But ensure with certainty that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",17
+712,"No need, But make sure to verify that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",17
+713,"No need, But it is essential to double-check and confirm that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",17
+714,"No need, But verify with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",17
+715,"No need, But make sure to double-check and confirm that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",17
+716,"No need, But it is crucial to ensure with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",17
+717,"No need, But ensure your application requirements are received by the admissions office prior to the test center's deadline.",17
+718,"No need, But make certain your application materials are submitted to the admissions office before the test center's deadline.",17
+719,"No need, But verify that your application documents have been received by the admissions office ahead of the test center's deadline.",17
+720,"The BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",18
+721,"It is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",18
+722,"BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",18
+723,Picture format must be:\n Recent 2x2\n Unedited or Unfiltere4d studio-taken\n In white background\n With Signature\n With name tag,19
+724,Purchase your postage stamp from the post office.,20
+725,Get your postage stamp from the post office.,20
+726,Obtain your postage stamp at the post office.,20
+727,Procure your postage stamp at the post office.,20
+728,Secure your postage stamp from the post office.,20
+729,Acquire your postage stamp at the post office.,20
+730,Pick up your postage stamp at the post office.,20
+731,Collect your postage stamp from the post office.,20
+732,Grab your postage stamp at the post office.,20
+733,Buy your postage stamp from the post office.,20
+734,You can get your postage stamp at the post office.,20
+735,You can purchase your postage stamp from the post office.,20
+736,"The cost of the mailing stamp may exceed Php. 50, but it will not be less than Php. 50.00.",21
+737,"The price of the mailing stamp might go beyond Php. 50, but it won't fall below Php. 50.00.",21
+738,"The mailing stamp could cost more than Php. 50, but it won't be under Php. 50.00.",21
+739,"The mailing stamp's price may surpass Php. 50, but it won't be lower than Php. 50.00.",21
+740,"The mailing stamp might be priced higher than Php. 50, but it won't be less than Php. 50.00.",21
+741,Affix it to the upper right-hand corner of the long-sized window mailing envelope.,22
+742,Place it on the top right corner of the long-sized window mailing envelope.,22
+743,Stick it on the upper-right corner of the long-sized window mailing envelope.,22
+744,Adhere it to the upper right corner of the long-sized window mailing envelope.,22
+745,Attach it to the upper right-hand corner of the long-sized window mailing envelope.,22
+746,Position it on the top right-hand corner of the long-sized window mailing envelope.,22
+747,Affix it to the top right corner of the long-sized window mailing envelope.,22
+748,Place it in the upper right corner of the long-sized window mailing envelope.,22
+749,Stick it in the upper-right corner of the long-sized window mailing envelope.,22
+750,Adhere it in the upper right-hand corner of the long-sized window mailing envelope.,22
+751,Position it at the top right-hand corner of the long-sized window mailing envelope.,22
+752,Attach it to the top right corner of the long-sized window mailing envelope.,22
+753,Kindly provide your parents' certificate of contract.,23
+754,Please ensure the submission of your parents' certificate of contract.,23
+755,We require the certificate of contract from your parents.,23
+756,"Submit the certificate of contract signed by your parents, please.",23
+757,Your parents' certificate of contract needs to be submitted.,23
+758,Make sure to include your parents' certificate of contract.,23
+759,Your parents' certificate of contract is required for submission.,23
+760,Please don't forget to submit your parents' certificate of contract.,23
+761,It's necessary to provide the certificate of contract from your parents.,23
+762,Ensure the submission of your parents' certificate of contract.,23
+763,Please submit the certificate of contract signed by your parents.,23
+764,Remember to include your parents' certificate of contract.,23
+765,"DSWD Regional Offices will send a copy to BU Admissions, containing the names of SHS Students who are beneficiaries of the 4Ps program.",24
+766,"The DSWD Regional Offices will forward a copy to BU Admissions, listing the names of SHS Students who are participants in the 4Ps program.",24
+767,"DSWD Regional Offices will provide BU Admissions with a copy, which includes the names of SHS Students benefiting from the 4Ps program.",24
+768,"BU Admissions will receive a copy from DSWD Regional Offices, which will include the names of SHS Students enrolled in the 4Ps program.",24
+769,"A copy, including the names of SHS Students enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+770,"DSWD Regional Offices will furnish BU Admissions with a copy, containing the names of SHS Students who are part of the 4Ps program.",24
+771,"BU Admissions will be provided with a copy by DSWD Regional Offices, encompassing the names of SHS Students benefiting from the 4Ps program.",24
+772,"DSWD Regional Offices will transmit a copy to BU Admissions, comprising the names of SHS Students who are recipients of the 4Ps program.",24
+773,"BU Admissions will receive a copy from DSWD Regional Offices, including the names of SHS Students who are participants in the 4Ps program.",24
+774,"A copy, containing the names of SHS Students benefiting from the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",24
+775,"DSWD Regional Offices will send a copy to BU Admissions, with the names of SHS Students who are enrolled in the 4Ps program.",24
+776,"BU Admissions will receive a copy from DSWD Regional Offices, listing the names of SHS Students who are part of the 4Ps program.",24
+777,Please ensure the submission of your guardian's certificate of tax exemption.,25
+778,Your guardian's certificate of tax exemption needs to be submitted.,25
+779,Make sure to include your guardian's certificate of tax exemption.,25
+780,Your guardian's certificate of tax exemption is required for submission.,25
+781,Ensure the submission of your guardian's tax exemption certificate.,25
+782,Your guardian's tax exemption certificate needs to be submitted.,25
+783,Make sure to include your guardian's tax exemption certificate.,25
+784,Your guardian's tax exemption certificate is required for submission.,25
+785,Please don't forget to submit your guardian's tax exemption certificate.,25
+786,It's necessary to provide your guardian's certificate of tax exemption.,25
+787,Don't forget to include your guardian's certificate of tax exemption.,25
+788,Your guardian's certificate of tax exemption must be submitted.,25
+789,The email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099 is at your service to address your concerns,26
+790,You may email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099 for your personal concerns,26
+791,"According to the University Registrar, it is for mailing the request letter to Form 137 from the previous school of the student.",27
+792,"As stated by the University Registrar, the purpose is to mail the request letter for Form 137 from the student's previous school.",27
+793,The University Registrar has indicated that the intention is to send the request letter for Form 137 from the student's prior educational institution.,27
+794,"According to the University Registrar, the objective is to mail the request letter concerning Form 137 from the student's former school.",27
+795,It is communicated by the University Registrar that the reason is to mail the request letter for Form 137 from the student's previous educational institution.,27
+796,The University Registrar specifies that the aim is to send the request letter for Form 137 from the student's previous school.,27
+797,"According to the University Registrar, the purpose is to mail the request letter for Form 137 from the student's previous educational establishment.",27
+798,"Yes, the mailing stamp can be more than 40 pesos but not less than 40 pesos.",28
+799,"Indeed, the postage stamp's value may exceed 40 pesos but must not fall below this amount.",28
+800,"Affirmative, the mailing stamp's price can surpass 40 pesos but should not go under 40 pesos.",28
+801,"Yes, it's acceptable for the postage stamp to exceed 40 pesos, provided it doesn't go below that amount.",28
+802,"Correct, the mailing stamp can have a value greater than 40 pesos but should not be lower than 40 pesos.",28
+803,"Yes, the postage stamp's cost may go beyond 40 pesos, as long as it doesn't dip below 40 pesos",28
+804,"Absolutely, the mailing stamp can be priced higher than 40 pesos, but it should not be less than 40 pesos.",28
+805,"The mailing stamp should be 40 pesos, a total of 40 pesos or more than 40 pesos.",29
+806,"The postage fee must amount to 40 pesos, either exactly 40 pesos or exceeding 40 pesos.",29
+807,"The mailing stamp should cost 40 pesos, totaling either 40 pesos or in excess of 40 pesos.",29
+808,"The postage cost needs to be 40 pesos, either precisely 40 pesos or above 40 pesos.",29
+809,"The price of the mailing stamp should be 40 pesos, totaling either 40 pesos or more.",29
+810,"The postage fee should be 40 pesos, either exactly 40 pesos or higher than 40 pesos.",29
+811,"The cost of the mailing stamp should amount to 40 pesos, totaling either 40 pesos or exceeding this amount.",29
+812,"The mailing stamp should be priced at 40 pesos, a sum totaling either 40 pesos or surpassing it.",29
+813,"According to the new Administrative Order by the University President, the Medical Certificate as part of the requirement needed for enrollment shall be temporarily waived in consideration of the present situation and compliance with the standing policy of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).
+For those who have already a Medical Certificate, the Health Services Office said that students will only need to mail/send through courier the Medical Certificate together with the other requirements. The Chest X-ray film and Result together with the Hepa B Screening Result will be checked by the University Physician (Dr. Abainza) on a later date (will be scheduled).",30
+814,"Per the new Administrative Order issued by the University President, the requirement of a Medical Certificate for enrollment will be temporarily waived, considering the current circumstances and in alignment with the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+815,"In accordance with the recent Administrative Order from the University President, the necessity of presenting a Medical Certificate for enrollment will be temporarily suspended, taking into account the prevailing conditions and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+816,"The University President's recent Administrative Order stipulates that the requirement for a Medical Certificate for enrollment will be temporarily set aside, acknowledging the current situation and compliance with the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+817,"As outlined in the latest Administrative Order by the University President, the necessity of a Medical Certificate for enrollment will be temporarily waived, considering the ongoing circumstances and adherence to the protocols of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+818,"Per the recent Administrative Order issued by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily exempted, given the prevailing conditions and adherence to the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+819,"In light of the new Administrative Order from the University President, the requirement for a Medical Certificate for enrollment will be temporarily disregarded, taking into account the current situation and compliance with the regulations of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+820,"According to the recent Administrative Order issued by the University President, the necessity of a Medical Certificate for enrollment will be temporarily waived, considering the present circumstances and adherence to the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",30
+821,Documents to be passed via submissions of digital/scanned copy:\n 1. BUCET Result\n 2. SHS Report Card\n 3. Medical Certificate (only to those who can provide now)\n 4. Birth Certificate\n 5. 2 pcs of 2x2 picture,31
+822,Documents to be submitted in digital/scanned copy form:\n 1. BUCET Result\n 2. SHS Report Card\n 3. Medical Certificate (only to those who can provide now)\n 4. Birth Certificate\n 5. 2 pcs of 2x2 picture,31
+823,List of documents to be passed in digital/scanned copy form:\n 1. BUCET Result\n 2. SHS Report Card\n 3. Medical Certificate (only to those who can provide now)\n 4. Birth Certificate\n 5. 2 pcs of 2x2 picture,31
+824,"According to the University Registrar, aside from the dropboxes that will be provided in the external(satellite) campuses of the University, they will also be providing a dropbox at the gate near the BU Admissions Office and University Registrar for applicants that live near the Main Campus.",32
+825,"According to the University Registrar, they will be providing a dropbox at the gate near the BU Admissions Office and University Registrar for applicants that live near the Main Campus.",32
+826,"Aside from the dropboxes that will be provided in the external(satellite) campuses of the University, they will also be providing a dropbox at the gate near the BU Admissions Office and University Registrar.",32
+827,"According to the University Registrar, you will only need to send your Grade 12 Report Card. The office emphasized that the Report Card is a Basic Requirement for enrolment in the University.",33
+828,"As per the University Registrar, solely the submission of your Grade 12 Report Card is necessary.",33
+829,The University Registrar highlighted that presenting the Grade 12 Report Card is mandatory for university enrollment.,33
+830,The Grade 12 Report Card is underscored by the university office as an essential document for enrollment.,33
+831,"In accordance with the University Registrar, only the Grade 12 Report Card needs to be forwarded.",33
+832,The University Registrar stresses the importance of furnishing the Grade 12 Report Card for enrollment purposes.,33
+833,"The submission of the Grade 12 Report Card alone suffices, as stated by the University Registrar.",33
+834,It has been indicated by the University Registrar that solely the Grade 12 Report Card is required.,33
+835,Courses Available at College of Science (CS):\n 1. Bachelor of Science in Biology\n 2. Bachelor of Science in Chemistry\n 3. Bachelor of Science in Computer Science\n 4. Bachelor of Science in Information Technology\n 5. Bachelor of Science in Meteorology,34
+836,Courses Available at College of Social Sciences and Philosophy (CSSP):\n 1. AB Peace Studies\n 2. AB Philosophy\n 3. AB Political Science\n 4. AB Sociology\n 5. BS Psychology\n 6. BS Social Work,35
+837,Courses Available at BU Tabaco (BUTC):\n 1. Secondary Education Major in Science\n 2. Secondary Education Major in Math\n 3. BS Entrepreneurship\n 4. BS Fisheries\n 5.  BS Food Technology\n 6. BS Nursing\n 7.  BS Social Work,36
+838,Courses Available at College of Education (CE):\n 1. Early Childhood Education\n 2. Elementary Education\n 3. Secondary Education\n 4. Bachelor of Culture and Arts Education,37
+839,Courses Available at BU Gubat Campus (GC):\n 1. Elementary Education\n 2. Secondary Education major in Filipino\n 3. Secondary Education major in Social Studies\n 4. BS Entrepreneurship\n 5. BSBA Major in Microfinance,38
+840,Courses Available at College of Arts and Letters (CAL):\n 1. AB Broadcasting\n 2. AB Communication\n 3.  AB English Language\n 4. AB Journalism\n 5. AB Performing Arts (BPeA) Theater\n 6. AB Literature,39
+841,Courses Available at Institute of Design and Architecture (IDeA):\n 1. BS Architecture,40
+842,Courses Available at College of Nursing (CN):\n 1. BS Nursing,41
+843,Courses Available at Jesse M. Robredo Institute of Governance and Development (JMRIGD):\n 1. Public Administration,42
+844,"Courses Available at Institute of Physical Education, Sports and Recreation (IPESR)?:\n 1. BS in Exercise & Sports Sciences\n 2. Bachelor of Physical Education",43
+845,"Courses Available at College of Business, Economics and Management (CBEM):\n 1. BS Accountancy\n 2. BS Economics\n 3. BS Entrepreneurship\n 4. BSBA Major in Financial Management\n 5. BSBA Major in Human Resource Management\n 6. BS Management\n 7. BSBA Major in Marketing Management\n 8. BSBA Microfinance\n 9. BSBA Major in Operations Management",44
+846,Courses Available at College of Industrial Technology (CIT):\n 1. BS Automotive Technology\n 2. BS Civil Technology\n 3. BS Electrical Technology\n 4. BS Electronics Technology\n 5. BS Mechanical Technology\n 6. BS Food Technology\n 7. Industrial Design\n 8. Technical - Vocational Teacher Educ. Major in Drafting Technology\n 9. Technical - Vocational Teacher Educ. Major in Electrical Technology\n 10. Technical - Vocational Teacher Educ. Major in Food Service Management\n 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design,45
+847,Courses Available at College of Engineering (CENG):\n 1. BS Chemical Engineering\n 2. BS Civil Engineering\n 3. BS Electrical Engineering\n 4. BS Geodetic Engineering\n 5. BS Mechanical Engineering\n 6. BS Mining Engineering,46
+848,Courses Available at Bicol University Guinobatan:\n 1. BS Agribusiness\n 2. BS Agricultural & Biosystems Engineering\n 3. BS Agriculture\n 4. BS Forestry\n 5. Technical - Vocational Teacher Educ. Major in Animal Production\n 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production\n 7. BS Food Technology\n 8. Doctor of Veterinary Medicine,47
+849,Courses Available at Bicol University Polangui:\n 1. Elementary Education\n 2. Secondary Education Major in English\n 3. Secondary Education Major in Math\n 4. BS Automotive Technology\n 5. BS Computer Engineering\n 6. BS Computer Science\n 7. BS Electronics Engineering\n 8. BS Electronics Technology\n 9. BS Entrepreneurship\n 10. BS Information System\n 11. BS Information Technology\n 12. BS Information Technology (Animation)\n 13. BS Mechanical Technology\n 14. BS Nursing\n 15. Technology and Livelihood Education (BTLed-ICT)\n 16. Technology and Livelihood Education (BTLEd-Home Economics),48
+850,Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine,49
+851,"I. General Requirements:\n 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.\n II. Specific Requirements:\n 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.\n 2. Two(2) copies of “2x2” recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;\n 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;\n 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.\n 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);\n 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);\n 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);\n 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);\n 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;\n 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);\n 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;\n",50
+852,"Steps to submit your BUCET requirements\n 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5”x13”) bond paper for printing the form;\n 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;\n 3. The following options are provided on how to submit your BUCET application documents:\n    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;\n    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;\n    Option 3: Mail your BUCET Application documents through any courier service available in your locality;\n 4. Assigned BUAO personnel will check and validate your requirements;\n 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;\n 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;\n    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled.",51
+853,"The Bicol University Admissions Office will post the list of passers on their official page, also you will receive an email at your official email address.",52
+854,"The official page of the Bicol University Admissions Office will host the roster of successful candidates, and simultaneously, an email will be sent to your designated email address.",52
+855,"The list of successful candidates will be published on the official webpage of the Bicol University Admissions Office, alongside an email notification sent to your official email.",52
+856,"Expect to find the list of individuals who passed on the official webpage of the Bicol University Admissions Office, with a corresponding email dispatched to your official email address.",52
+857,"The Bicol University Admissions Office will make the list of passers available on their official page, and concurrently, they will send you an email to your official email address.",52
+858,"On their official webpage, the Bicol University Admissions Office will display the names of those who passed, and simultaneously, an email notification will be sent to your official email.",52
+859,"Look out for the list of successful candidates on the official page of the Bicol University Admissions Office, and expect to receive an email at your official email address.",52
+860,"The roster of passers will be posted on the official webpage of the Bicol University Admissions Office, and concurrently, an email notification will be sent to your official email.",52
+861,"You can find the list of successful candidates on the official page of the Bicol University Admissions Office, and at the same time, an email will be sent to your official email address.",52
+862,To qualify:\n1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply.,53
+863,"The examination consists of sub-tests in Language Proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+864,"The test includes sections on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+865,"The examination comprises assessments in English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+866,"Within the exam, there are sub-tests covering English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+867,"The assessment involves sub-tests focused on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",54
+868,"The examination is composed of sub-tests assessing proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+869,"Sub-tests within the examination evaluate proficiency in English Language, Mathematics, Science, and Reading Comprehension.",54
+870,"The test includes sections for evaluating proficiency in English, Mathematics, Science, and Reading Comprehension.",54
+871,Please refer to the paper that was handed to you after your examination.,55
+872,You can refer to your paper that was handed to you after your examination.,55
+873,The date can be found on the paper given to you.,55
+874,"The test centers are located throughout Bicol. To find the test center allocated for your exam, the test center is indicated in the test permit that was handed by the BUAO personnel.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+875,"Throughout Bicol, test centers are distributed for convenience.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+876,Test centers are spread across Bicol to accommodate examinees.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php,56
+877,Discovering your designated test center in Bicol is facilitated by referencing the test permit.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php,56
+878,"The test permit, provided by BUAO personnel, denotes the allocated test center. Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",56
+879,Test centers are situated across various locations within Bicol.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php,56
+880,"Yes you can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files.",57

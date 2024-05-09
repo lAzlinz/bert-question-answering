@@ -1,0 +1,59 @@
+tag_id,tag,context,answer,answer_start
+0,greeting,,,0
+1,goodbye,,,0
+2,thanks,,,0
+3,items,I am a chatbot called Admission ChatBUt: Your Admission Guide.,I am a chatbot called Admission ChatBUt: Your Admission Guide.,0
+4,funny,What did the buffalo say when his son left for college? Bison.,What did the buffalo say when his son left for college? Bison.,0
+5,form,The BUCET application form is accessed by going to the website https://buao.bicol-u.edu.ph.,https://buao.bicol-u.edu.ph,84
+6,reschedule,The appointment date can be adjusted by going to the website https://buao.bicol-u.edu.ph/bucet_online/retrieve.php and putting your information such as the date of the new appointment.,https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,61
+7,retrieve,To retrieve the BUCET application form use this link https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,https://buao.bicol-u.edu.ph/bucet_online/retrieve.php,54
+8,edit,To edit or adjust the picture you have already uploaded go to this link https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php,73
+9,deadline,The deadline for submitting the necessary requirements for BUCET is a week before the day of the examination depending on the test center.,a week before the day of the examination,69
+10,fee,,,0
+11,authorized personnel,,,0
+12,reapply,,,0
+13,correcting,,,0
+14,submit,,,0
+15,claim,,,0
+16,appointment,,,0
+17,follow,,,0
+18,address,,,0
+19,format,,,0
+20,mailing stamp,,,0
+21,exceed,,,0
+22,paste,,,0
+23,ofw,,,0
+24,4P's certificate,,,0
+25,guardian,,,0
+26,concerns,,,0
+27,purpose,,,0
+28,more than,,,0
+29,less than,,,0
+30,medical,,,0
+31,requirements,,,0
+32,satellite,,,0
+33,form 138,,,0
+34,CS,,,0
+35,CSSP,,,0
+36,BUTC,,,0
+37,CE,,,0
+38,BUGC,,,0
+39,CAL,,,0
+40,IDeA,,,0
+41,CN,,,0
+42,JMRIGD,,,0
+43,IPESR,,,0
+44,CBEM,,,0
+45,CIT,,,0
+46,CENG,,,0
+47,BUCAF,,,0
+48,BUPC,,,0
+49,CDM,,,0
+50,general requirements,,,0
+51,submitting requirements,,,0
+52,announcement,,,0
+53,qualification,,,0
+54,topics,,,0
+55,date of release,,,0
+56,test centers,,,0
+57,mobile phone,,,0
