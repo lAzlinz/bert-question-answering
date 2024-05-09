@@ -8,7 +8,7 @@ output_dir: str = './models/'
 
 model_name: str = "deepset/roberta-base-squad2"
 output_name: str = "my_model"
-train_set_name: str = 'my_dataset.json' # 'new_training_set_v2.json'
+train_set_name: str = 'train_dataset.json' # 'new_training_set_v2.json'
 # val_set_name: str = 'new_testing_set_v2.json'
 
 train_path: str = datasets_dir + train_set_name
