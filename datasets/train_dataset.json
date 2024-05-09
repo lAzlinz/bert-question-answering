@@ -1,0 +1,126 @@
+[
+    {
+        "question": "Who can take the BUCET or Bicol University College Entrance Exam?",
+        "context": "Incoming freshmen are required to take the BUCET. It is a three-hour examination consisting of sub-tests in Language Proficiency in English, Mathematics, Science and Reading Comprehension. Admission shall be based on the applicant's Bicol University College Entrance Test (BUCET) Composite Rating consisting of the BUCET score and his/her general weighted average (GWA) in grades 9 to 11.",
+        "answers": {
+            "text": [
+                "Incoming freshmen"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "question": "What is the BUCET or Bicol University College Entrance Exam?",
+        "context": "Incoming freshmen are required to take the BUCET. It is a three-hour examination consisting of sub-tests in Language Proficiency in English, Mathematics, Science and Reading Comprehension. Admission shall be based on the applicant's Bicol University College Entrance Test (BUCET) Composite Rating consisting of the BUCET score and his/her general weighted average (GWA) in grades 9 to 11.",
+        "answers": {
+            "text": [
+                "It is a three-hour examination consisting of sub-tests in Language Proficiency in English, Mathematics, Science and Reading Comprehension"
+            ],
+            "answer_start": [
+                50
+            ]
+        }
+    },
+    {
+        "question": "What subjects are in the BUCET or Bicol University College Entrance Exam?",
+        "context": "Incoming freshmen are required to take the BUCET. It is a three-hour examination consisting of sub-tests in Language Proficiency in English, Mathematics, Science and Reading Comprehension. Admission shall be based on the applicant's Bicol University College Entrance Test (BUCET) Composite Rating consisting of the BUCET score and his/her general weighted average (GWA) in grades 9 to 11.",
+        "answers": {
+            "text": [
+                "Language Proficiency in English",
+                "Mathematics",
+                "Science",
+                "Reading Comprehension"
+            ],
+            "answer_start": [
+                108,
+                141,
+                154,
+                166
+            ]
+        }
+    },
+    {
+        "question": "Who can apply for the BUCET or Bicol University College Entrance Exam?",
+        "context": "Students of DepEd-recognized high schools who are high school seniors expecting to graduate at the end of the school year; or Senior high school graduates who have not taken and/ are not taking any college subjects/s or ALS graduates who have not enrolled in any college course are eligible to apply.",
+        "answers": {
+            "text": [
+                "Students of DepEd-recognized high schools who are high school seniors expecting to graduate at the end of the school year",
+                "Senior high school graduates who have not taken and/ are not taking any college subjects/s or ALS graduates who have not enrolled in any college course are eligible to apply."
+            ],
+            "answer_start": [
+                0,
+                126
+            ]
+        }
+    },
+    {
+        "question": "What are the requirements to apply for BUCET or Bicol University College Entrance Exam?",
+        "context": "The specific requirements are as follows. Correctly and completely accomplished BUCET Application Form. Two (2) copies of 2”x2” recent, unedited or unfiltered studio- taken photograph of the applicant in white background with applicant’s signature and name tag. Grade 9 to Grade 11 High School academic ratings affixed at the reverse side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9 (Formerly Form 138) FOR SENIOR HIGH SCHOOL GRADUATES who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes. Photocopy of Person with Disability (PWD) ID pursuannt to RA No. 7277(if applicable). Photocopy of parent's Solo Parent ID pursuant to RA No. 11861 (if applicable). Copy of Parent’s latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR). Accomplished NCIP - COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if applicant is a member of ethno-linguistic groups (Indigenous Peoples groups). Certification from the Barangay if applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) pursuant to RA No. 11148, please refer to this link GIDA List 2022. Certification from DSWD if member of 4P’s (Pantawid Pamilyang Pilipino Program). One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from Postal Office attached on the upper right-hand corner for mailing of results",
+        "answers": {
+            "text": [
+                "Correctly and completely accomplished BUCET Application Form",
+                "Two (2) copies of 2”x2” recent, unedited or unfiltered studio- taken photograph of the applicant in white background with applicant’s signature and name tag",
+                "Grade 9 to Grade 11 High School academic ratings affixed at the reverse side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal",
+                "Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9 (Formerly Form 138) FOR SENIOR HIGH SCHOOL GRADUATES who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes",
+                "Photocopy of Person with Disability (PWD) ID pursuannt to RA No. 7277(if applicable)",
+                "Photocopy of parent's Solo Parent ID pursuant to RA No. 11861 (if applicable)",
+                "Copy of Parent’s latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR)",
+                "Accomplished NCIP - COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if applicant is a member of ethno-linguistic groups (Indigenous Peoples groups)",
+                "Certification from the Barangay if applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) pursuant to RA No. 11148, please refer to this link GIDA List 2022",
+                "Certification from DSWD if member of 4P’s (Pantawid Pamilyang Pilipino Program)",
+                "One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from Postal Office attached on the upper right-hand corner for mailing of results"
+            ],
+            "answer_start": [
+                42,
+                104,
+                262,
+                346,
+                808,
+                894,
+                973,
+                1096,
+                1325,
+                1525,
+                1606
+            ]
+        }
+    },
+    {
+        "question": "How many copies of pictures are needed?",
+        "context": "The specific requirements are as follows. Correctly and completely accomplished BUCET Application Form. Two (2) copies of 2”x2” recent, unedited or unfiltered studio- taken photograph of the applicant in white background with applicant’s signature and name tag. Grade 9 to Grade 11 High School academic ratings affixed at the reverse side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9 (Formerly Form 138) FOR SENIOR HIGH SCHOOL GRADUATES who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes. Photocopy of Person with Disability (PWD) ID pursuannt to RA No. 7277(if applicable). Photocopy of parent's Solo Parent ID pursuant to RA No. 11861 (if applicable). Copy of Parent’s latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR). Accomplished NCIP - COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if applicant is a member of ethno-linguistic groups (Indigenous Peoples groups). Certification from the Barangay if applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) pursuant to RA No. 11148, please refer to this link GIDA List 2022. Certification from DSWD if member of 4P’s (Pantawid Pamilyang Pilipino Program). One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from Postal Office attached on the upper right-hand corner for mailing of results",
+        "answers": {
+            "text": [
+                "Two (2) copies of 2”x2” recent, unedited or unfiltered studio- taken photograph of the applicant in white background with applicant’s signature and name tag"
+            ],
+            "answer_start": [
+                104
+            ]
+        }
+    },
+    {
+        "question": "Where can I access the BUCET Application Form?",
+        "context": "The Online BUCET Application Form can be accessed through the BUAO website: buao.bicol-u.edu.ph. Make sure to have a stable internet connection. Whatever input that will be submitted by the applicant is final and cannot be changed. If any problem occurs in filling up the forms, please email: buao.bucet@gmail.com;",
+        "answers": {
+            "text": [
+                "through the BUAO website: buao.bicol-u.edu.ph"
+            ],
+            "answer_start": [
+                50
+            ]
+        }
+    },
+    {
+        "question": "Is the BUCET Application Form available online?",
+        "context": "The Online BUCET Application Form can be accessed through the BUAO website: buao.bicol-u.edu.ph. Make sure to have a stable internet connection. Whatever input that will be submitted by the applicant is final and cannot be changed. If any problem occurs in filling up the forms, please email: buao.bucet@gmail.com;",
+        "answers": {
+            "text": [
+                "The Online BUCET Application Form can be accessed through the BUAO website: buao.bicol-u.edu.ph"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    }
+]
