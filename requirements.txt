@@ -1,0 +1,6 @@
+# use pip install -r requirements.txt
+transformers
+datasets
+accelerate
+# This should be installed separately (if you will be training a new model)
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
